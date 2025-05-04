@@ -6,7 +6,7 @@ pipeline {
         stage('Hello') {
             steps {
                 sh '''
-                    echo "Hello World"
+                    echo "Hello india"
                     echo "hello rishi"
                     mkdir rushi
                     cd rushi
